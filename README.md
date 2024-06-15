@@ -15,4 +15,4 @@ Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. O "D-ID" para cria
 ## 🚀 Resultados
 O vídeo é uma telenoticia da EuroCopa 2024 trazendo curiosidades sobre ela, quem pode ser o artilheiro, quais as seleções favoritas,e quais as sedes etc.
 
-[LINK PARA O VÍDEO AQUI]()
+[LINK PARA O VÍDEO AQUI](https://github.com/LuisSilva182/projeto-avatar)
